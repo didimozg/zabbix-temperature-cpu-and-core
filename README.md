@@ -1,7 +1,8 @@
-
-# 🌡️ Zabbix Basic CPU Temperature Monitoring
+# Zabbix CPU and Core Temperature Monitoring
 
 ![Zabbix Version](https://img.shields.io/badge/Zabbix-7.0%2B-blue) ![Agent](https://img.shields.io/badge/Zabbix_Agent-2-green) ![License](https://img.shields.io/badge/License-GPLv3-blue)
+
+Russian documentation: [README_RU.md](./README_RU.md).
 
 A lightweight and optimized template for monitoring CPU temperatures in Zabbix using `lm-sensors`.
 This solution leverages native `UserParameters` (one-liners) to minimize external script dependencies.
