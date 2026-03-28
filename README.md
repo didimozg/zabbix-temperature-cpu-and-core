@@ -1,6 +1,6 @@
 # Zabbix CPU and Core Temperature Monitoring
 
-![Zabbix Version](https://img.shields.io/badge/Zabbix-7.0%2B-blue) ![Agent](https://img.shields.io/badge/Zabbix_Agent-2-green) ![License](https://img.shields.io/badge/License-GPLv3-blue)
+![Zabbix Version](https://img.shields.io/badge/Zabbix-7.0%2B-blue) ![Agent](https://img.shields.io/badge/Zabbix_Agent-2-green) ![License](https://img.shields.io/github/license/didimozg/zabbix-temperature-cpu-and-core)
 
 Russian documentation: [README_RU.md](./README_RU.md).
 
